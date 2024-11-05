@@ -63,7 +63,7 @@ A markdown cell indicating the author's name.
 
 ## How to Use this Repository
 - Clone this repository to view the notebook.
-- To view the notebook on GitHub, click [here](./DataScienceEcosystem-checkpoint.ipynb).
+- To view the notebook on GitHub, click [here](https://github.com/jyanggi/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb).
 
 ## Author
 John Yanguas
